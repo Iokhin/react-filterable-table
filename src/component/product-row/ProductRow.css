@@ -1,0 +1,9 @@
+.NotStocked {
+    color: red;
+    border: 1px solid red;
+}
+
+.Stocked {
+    color: green;
+    border: 1px solid green;
+}
